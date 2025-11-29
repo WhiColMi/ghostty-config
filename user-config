@@ -1,1 +1,5 @@
 confirm-close-surface = false
+
+padding = 0
+padding-x = 0
+padding-y = 0
